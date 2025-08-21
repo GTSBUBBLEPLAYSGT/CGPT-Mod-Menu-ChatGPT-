@@ -1,0 +1,16 @@
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\bin\Debug\net9.0-windows\GTAGMODMENU.exe
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\bin\Debug\net9.0-windows\GTAGMODMENU.deps.json
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\bin\Debug\net9.0-windows\GTAGMODMENU.runtimeconfig.json
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\bin\Debug\net9.0-windows\GTAGMODMENU.dll
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\bin\Debug\net9.0-windows\GTAGMODMENU.pdb
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\obj\Debug\net9.0-windows\GTAGMODMENU.Form1.resources
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\obj\Debug\net9.0-windows\GTAGMODMENU.csproj.GenerateResource.cache
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\obj\Debug\net9.0-windows\GTAGMODMENU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\obj\Debug\net9.0-windows\GTAGMODMENU.AssemblyInfoInputs.cache
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\obj\Debug\net9.0-windows\GTAGMODMENU.AssemblyInfo.cs
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\obj\Debug\net9.0-windows\GTAGMODMENU.csproj.CoreCompileInputs.cache
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\obj\Debug\net9.0-windows\GTAGMODMENU.dll
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\obj\Debug\net9.0-windows\refint\GTAGMODMENU.dll
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\obj\Debug\net9.0-windows\GTAGMODMENU.pdb
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\obj\Debug\net9.0-windows\GTAGMODMENU.genruntimeconfig.cache
+C:\Users\SussI\source\repos\GTAGMODMENU\GTAGMODMENU\obj\Debug\net9.0-windows\ref\GTAGMODMENU.dll
